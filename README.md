@@ -21,7 +21,7 @@
 - [픽픽 (PicPick)](https://picpick.app/ko/) NGWIN이 제작한 화면 캡쳐 및 이미지 편집 프로그램. 기본 캡쳐프로그램에서 하기 힘든 캡쳐방식들(스크롤 캡쳐, 자유모양 등)을 지원하고 색상추출, 눈금자, 각조기, 십자선 등. 이미지 캡쳐 후 이미지 위에 부가 설명을 붙이거나 사용메뉴얼 작성시 매우 도움이 된다. [나무위키](https://namu.wiki/w/픽픽)
 
 ## PDF
-- [iLovePDF | PDF르 즐겨 쓰시느 분들을 위한 온라인 PDF 툴](https://www.ilovepdf.com/ko) PDF 병합, 나누기, 압축, 오피스 파일에서 PDF로 변환, PDF에서 JPG로 변환, JPG에서 PDF로 변환. 별도의 툴 설치 없이 온라인에서 바로 가능하다.
+- [iLovePDF | PDF를 즐겨 쓰시는 분들을 위한 온라인 PDF 툴](https://www.ilovepdf.com/ko) PDF 병합, 나누기, 압축, 오피스 파일에서 PDF로 변환, PDF에서 JPG로 변환, JPG에서 PDF로 변환. 별도의 툴 설치 없이 온라인에서 바로 가능하다.
 
 ## 이미지 관리
 - [iLoveIMG | 여러 PNG 파일 크기를 무료로 조절](https://www.iloveimg.com/ko/resize-image/resize-png) 이미지 리사이즈 및 크롭기능을 별도의 툴 설치 없이 온라인에서 바로 가능하다.
