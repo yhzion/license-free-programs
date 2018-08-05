@@ -32,6 +32,5 @@
 
 ## 문서 텍스트 비교
 - [winmerge] (http://yaraba.tistory.com/107) 이전 문서의 내용과 수정한 문서의 내용을 비교하는 무료 프로그램이다.
-- [sourcegear diffmerge] (http://happycgi.com/15778) winmerge와 같은 문서 비교 프로그램으로써 유료 프로그램과 같은 뛰어난 성능을 가진 프로그램이다.
 
 여러분들이 알고 계신 여러가지 프로그램들을 계속 추가해주세요
