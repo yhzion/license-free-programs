@@ -29,6 +29,8 @@
 ## 이미지 관리
 - [iLoveIMG](https://www.iloveimg.com/ko/resize-image/resize-png) 여러 PNG 파일 크기를 무료로 조절. 이미지 리사이즈 및 크롭기능을 별도의 툴 설치 없이 온라인에서 바로 가능하다.
 - [TinyPNG](https://tinypng.com) 이미지 품질을 최대한 유지하면서 파일 사이즈를 획기적으로 줄여주는 기능을 온라인으로 제공. 웹페이지의 빠른 로딩을 위해 품질의 손실 없이 이미지 사이즈 축소가 필요한 경우 꼭 한번 시도 해볼만하다. 만족스러운 결과를 제공한다.
+- [Pixlr Editor](https://pixlr.com/editor/)
+웹 기반 무료 포토샵 에디터. 설치가 따로 필요하지 않으며 포토샵의 대부분의 기능을 이용할 수 있다.
 
 ## 문서 텍스트 비교
 - [winmerge](http://yaraba.tistory.com/107) 이전 문서의 내용과 수정한 문서의 내용을 비교하는 무료 프로그램이다.
